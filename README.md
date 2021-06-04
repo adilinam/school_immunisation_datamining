@@ -1,4 +1,4 @@
-# school_immunisation_py_dm
+# school_immunisation_datamining
 Data mining project on school immunisation data
 
 following is done 
